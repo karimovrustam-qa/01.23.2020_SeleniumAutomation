@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="949b170d-ef13-4b9e-9086-2b3fa529eb4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wo8TO15IHYWDOmU50dbZgOwxwI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Pytest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pytest" />
+      <recent name="$PROJECT_DIR$/GenerateLOGS" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.KeyboardOperationsActionChains">
+    <configuration name="GenerateLogs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01.23.2020_SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GenerateLOGS/GenerateLogs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KeyboardOperationsActionChains" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01.23.2020_SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KeyboardOperationsActionChains.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Logs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01.23.2020_SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GenerateLOGS/Logs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WorkMultiFrame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01.23.2020_SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkMultiFrame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_TC_003_Assertions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01.23.2020_SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pytest/test_TC_003_Assertions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_TC_001_ValidateRegistration.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="01.23.2020_SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Pytest/test_TC_001_ValidateRegistration.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.WorkMultiFrame" />
+      <item itemvalue="Python.GenerateLogs" />
+      <item itemvalue="Python.Logs" />
+      <item itemvalue="Python.test_TC_003_Assertions" />
+      <item itemvalue="Python.KeyboardOperationsActionChains" />
+      <item itemvalue="Python tests.pytest in test_TC_001_ValidateRegistration.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.KeyboardOperationsActionChains" />
+        <item itemvalue="Python.test_TC_003_Assertions" />
+        <item itemvalue="Python.Logs" />
+        <item itemvalue="Python.GenerateLogs" />
+        <item itemvalue="Python.WorkMultiFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="949b170d-ef13-4b9e-9086-2b3fa529eb4a" name="Default Changelist" comment="" />
+      <created>1579804593131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579804593131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1489" y="291" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580005482669">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1489" y="291" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1580005482669" />
+    <state x="1258" y="577" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580175907854">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1258" y="577" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1580175907854" />
+    <state x="1523" y="594" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580321833184">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1523" y="594" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1580321833184" />
+    <state width="1441" height="237" key="GridCell.Tab.0.bottom" timestamp="1580503473384">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1441" height="237" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1580503473384" />
+    <state width="1441" height="237" key="GridCell.Tab.0.center" timestamp="1580503473384">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1441" height="237" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1580503473384" />
+    <state width="1441" height="237" key="GridCell.Tab.0.left" timestamp="1580503473384">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1441" height="237" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1580503473384" />
+    <state width="1441" height="237" key="GridCell.Tab.0.right" timestamp="1580503473384">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1441" height="237" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1580503473384" />
+    <state width="1158" height="293" key="GridCell.Tab.1.bottom" timestamp="1579808075388">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1158" height="293" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1579808075388" />
+    <state width="1158" height="293" key="GridCell.Tab.1.center" timestamp="1579808075387">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1158" height="293" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1579808075387" />
+    <state width="1158" height="293" key="GridCell.Tab.1.left" timestamp="1579808075387">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1158" height="293" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1579808075387" />
+    <state width="1158" height="293" key="GridCell.Tab.1.right" timestamp="1579808075388">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1158" height="293" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1579808075388" />
+    <state x="1102" y="476" key="SettingsEditor" timestamp="1580325506877">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1102" y="476" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1580325506877" />
+    <state x="1379" y="533" width="670" height="676" key="search.everywhere.popup" timestamp="1580155703167">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1379" y="533" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1580155703167" />
+  </component>
+</project>
